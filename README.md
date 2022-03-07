@@ -1,4 +1,4 @@
-# 3_make_your_burguer
+# Make your burguer
 
 ## Project setup
 ```
